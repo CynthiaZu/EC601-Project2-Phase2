@@ -1,6 +1,7 @@
 # EC601-Project2-Phase2
 ## Introduction
 This Social Media Analyzer may use for search some university or college.
+This test program for Twitter search is referenced by: https://github.com/twitterdev/Twitter-API-v2-sample-code/blob/main/Tweet-Lookup/get_tweets_with_user_context.py
 
 
 ### User Story
